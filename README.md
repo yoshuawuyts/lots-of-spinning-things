@@ -8,7 +8,7 @@ and friends.
 
 ## Installation
 ```sh
-$ npm install lots-of-spinning-things
+$ hub clone yoshuawuyts/lots-of-spinning-things
 ```
 
 ## Usage
